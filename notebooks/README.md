@@ -12,3 +12,7 @@ Through testing, we found that reverse throttle required a higher initial value 
 # Modified Training
 
 The modified training is the necessary notebook to train a road following model, utilize the README on how to train it on the Athena server.
+
+# Improved Road following
+
+This notebook is designed to combine the Collision Avoidance model and the Road Following model into a singular notebook where it will follow a road and avoid obstacles.
